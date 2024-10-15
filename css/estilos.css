@@ -15,3 +15,8 @@ body{
 {
 font-size: 20px;
 }
+#cabezera{
+    color: brown;
+    text-align: center;
+    width: 12px;
+}
